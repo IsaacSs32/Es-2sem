@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lista de Tickets</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        padding: 0;
+      }
+      h1 {
+        text-align: center;
+        color: #333;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+      }
+      table,
+      th,
+      td {
+        border: 1px solid #ccc;
+      }
+      th,
+      td {
+        padding: 10px;
+        text-align: left;
+      }
+      th {
+        background-color: #2e20b3;
+        color: aliceblue;
+      }
+    </style>
+  </head>
+  <div>
+    <a href="/persist_form">Home</a>
+  </div>
+  <body>
+    <h1>Lista de Tickets</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>Natureza</th>
+          <th>Descrição</th>
+          <th>provider</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% tickets.forEach(ticket => { %>
+        <tr>
+          <td><%= ticket.natureza %></td>
+          <td><%= ticket.descricao %></td>
+          <td><%= ticket.provider %></td>
+        </tr>
+        <% }); %>
+      </tbody>
+    </table>
+  </body>
+</html>
