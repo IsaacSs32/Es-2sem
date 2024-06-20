@@ -1,0 +1,162 @@
+
+2024-06-19 22:50:32-03:00 - INFO - Cliente_app iniciado, Rodando na porta 5003
+2024-06-19 22:50:39-03:00 - INFO - Api_Gateway iniciada, rodando na porta 5000!
+2024-06-19 22:51:36-03:00 - INFO - Serviço de persistência iniciado Rodando na porta 5002
+2024-06-19 22:51:40-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-19 22:51:49-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-19 22:51:49-03:00 - CRITICAL - Chamado não aberto, Provedor não fornecido
+2024-06-19 22:51:49-03:00 - INFO - Resposta do serviço: "Provedor não fornecido"
+2024-06-19 22:51:49-03:00 - INFO - Status da resposta: 200
+2024-06-19 22:51:49-03:00 - INFO - Dados da resposta: Provedor não fornecido
+2024-06-19 22:51:57-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-19 22:52:54-03:00 - INFO - Serviço de persistência iniciado Rodando na porta 5002
+2024-06-19 22:53:06-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-19 22:53:06-03:00 - CRITICAL - Chamado não aberto, Provedor não fornecido
+2024-06-19 22:53:06-03:00 - INFO - Resposta do serviço: "Provedor não fornecido"
+2024-06-19 22:53:06-03:00 - INFO - Status da resposta: 200
+2024-06-19 22:53:06-03:00 - INFO - Dados da resposta: Provedor não fornecido
+2024-06-20 11:06:50-03:00 - INFO - Serviço de persistência iniciado Rodando na porta 5002
+2024-06-20 11:07:01-03:00 - INFO - Cliente_app iniciado, Rodando na porta 5003
+2024-06-20 11:07:15-03:00 - INFO - Api_Gateway iniciada, rodando na porta 5000!
+2024-06-20 11:09:10-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:09:16-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:09:27-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:09:27-03:00 - CRITICAL - Chamado não aberto, Provedor não fornecido
+2024-06-20 11:09:28-03:00 - INFO - Resposta do serviço: "Provedor não fornecido"
+2024-06-20 11:09:28-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:09:28-03:00 - INFO - Dados da resposta: Provedor não fornecido
+2024-06-20 11:12:35-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:12:35-03:00 - CRITICAL - Chamado não aberto, Provedor não fornecido
+2024-06-20 11:12:35-03:00 - INFO - Resposta do serviço: "Provedor não fornecido"
+2024-06-20 11:12:35-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:12:35-03:00 - INFO - Dados da resposta: Provedor não fornecido
+2024-06-20 11:15:55-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:16:06-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:16:06-03:00 - CRITICAL - Chamado não aberto, Provedor não fornecido
+2024-06-20 11:16:06-03:00 - INFO - Resposta do serviço: "Provedor não fornecido"
+2024-06-20 11:16:06-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:16:06-03:00 - INFO - Dados da resposta: Provedor não fornecido
+2024-06-20 11:16:50-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:16:58-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:16:58-03:00 - CRITICAL - Chamado não aberto, Provedor não fornecido
+2024-06-20 11:16:58-03:00 - INFO - Resposta do serviço: "Provedor não fornecido"
+2024-06-20 11:16:58-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:16:58-03:00 - INFO - Dados da resposta: Provedor não fornecido
+2024-06-20 11:17:12-03:00 - INFO - Cliente_app iniciado, Rodando na porta 5003
+2024-06-20 11:17:17-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:17:21-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:17:21-03:00 - CRITICAL - Chamado não aberto, Provedor não fornecido
+2024-06-20 11:17:21-03:00 - INFO - Resposta do serviço: "Provedor não fornecido"
+2024-06-20 11:17:21-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:17:21-03:00 - INFO - Dados da resposta: Provedor não fornecido
+2024-06-20 11:17:33-03:00 - INFO - Serviço de persistência iniciado Rodando na porta 5002
+2024-06-20 11:17:51-03:00 - INFO - Api_Gateway iniciada, rodando na porta 5000!
+2024-06-20 11:17:55-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:17:57-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:18:01-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:18:01-03:00 - INFO - Conexão com o banco Postgres realizada com sucesso
+2024-06-20 11:18:01-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"duvida","descricao":"jj","provider":"A"}
+2024-06-20 11:18:01-03:00 - INFO - Conexão com o banco Postgres finalizada
+2024-06-20 11:18:01-03:00 - INFO - Data successfully inserted
+2024-06-20 11:18:01-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:18:01-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:18:01-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:19:41-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:20:08-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:20:08-03:00 - INFO - Conexão com o MongoDB realizada com sucesso
+2024-06-20 11:20:08-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"duvida","descricao":"11:20","provider":"B","_id":"66743a98627abecefd29e457"}
+2024-06-20 11:20:08-03:00 - INFO - Conexão com o banco MongoDB finalizada
+2024-06-20 11:20:08-03:00 - INFO - Data successfully inserted
+2024-06-20 11:20:08-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:20:08-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:20:08-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:20:09-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:20:58-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:20:58-03:00 - INFO - Conexão com o banco MariaDB realizada com sucesso
+2024-06-20 11:20:58-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"duvida","descricao":"11:22","provider":"C"}
+2024-06-20 11:20:58-03:00 - INFO - Conexão com o banco MariaDB finalizada
+2024-06-20 11:20:58-03:00 - INFO - Data successfully inserted
+2024-06-20 11:20:58-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:20:58-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:20:58-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:21:01-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:23:02-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:23:32-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:23:48-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:23:48-03:00 - INFO - Conexão com o banco Postgres realizada com sucesso
+2024-06-20 11:23:48-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"duvida","descricao":"11:23","provider":"A"}
+2024-06-20 11:23:48-03:00 - INFO - Conexão com o banco Postgres finalizada
+2024-06-20 11:23:48-03:00 - INFO - Data successfully inserted
+2024-06-20 11:23:48-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:23:48-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:23:48-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:23:52-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:25:27-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:27:11-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:27:23-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:27:23-03:00 - INFO - Conexão com o banco Postgres realizada com sucesso
+2024-06-20 11:27:23-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"resolucao","descricao":"teste","provider":"A"}
+2024-06-20 11:27:23-03:00 - INFO - Conexão com o banco Postgres finalizada
+2024-06-20 11:27:23-03:00 - INFO - Data successfully inserted
+2024-06-20 11:27:23-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:27:23-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:27:23-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:27:27-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:27:33-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:27:45-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:27:45-03:00 - INFO - Conexão com o MongoDB realizada com sucesso
+2024-06-20 11:27:45-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"resolucao","descricao":"11:27","provider":"B","_id":"66743c61627abecefd29e458"}
+2024-06-20 11:27:45-03:00 - INFO - Conexão com o banco MongoDB finalizada
+2024-06-20 11:27:45-03:00 - INFO - Data successfully inserted
+2024-06-20 11:27:45-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:27:45-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:27:45-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:27:47-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:27:54-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:28:20-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:28:20-03:00 - INFO - Conexão com o banco Postgres realizada com sucesso
+2024-06-20 11:28:20-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"duvida","descricao":"teste 5151","provider":"A"}
+2024-06-20 11:28:20-03:00 - INFO - Conexão com o banco Postgres finalizada
+2024-06-20 11:28:20-03:00 - INFO - Data successfully inserted
+2024-06-20 11:28:20-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:28:20-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:28:20-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:29:10-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:29:41-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:29:41-03:00 - INFO - Conexão com o MongoDB realizada com sucesso
+2024-06-20 11:29:41-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"resolucao","descricao":"TESTE 11:29","provider":"B","_id":"66743cd5627abecefd29e459"}
+2024-06-20 11:29:41-03:00 - INFO - Conexão com o banco MongoDB finalizada
+2024-06-20 11:29:41-03:00 - INFO - Data successfully inserted
+2024-06-20 11:29:41-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:29:41-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:29:41-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:29:43-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:35:21-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:35:29-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:35:29-03:00 - INFO - Conexão com o banco Postgres realizada com sucesso
+2024-06-20 11:35:29-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"duvida","descricao":"11:35","provider":"A"}
+2024-06-20 11:35:29-03:00 - INFO - Conexão com o banco Postgres finalizada
+2024-06-20 11:35:29-03:00 - INFO - Data successfully inserted
+2024-06-20 11:35:29-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:35:29-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:35:29-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:35:31-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:35:39-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:35:39-03:00 - INFO - Conexão com o MongoDB realizada com sucesso
+2024-06-20 11:35:39-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"duvida","descricao":"11:36","provider":"B","_id":"66743e3b627abecefd29e45a"}
+2024-06-20 11:35:39-03:00 - INFO - Conexão com o banco MongoDB finalizada
+2024-06-20 11:35:39-03:00 - INFO - Data successfully inserted
+2024-06-20 11:35:39-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:35:39-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:35:39-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:35:40-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:35:46-03:00 - INFO - Requisição de serviço de persistência recebido
+2024-06-20 11:35:46-03:00 - INFO - Conexão com o banco MariaDB realizada com sucesso
+2024-06-20 11:35:46-03:00 - INFO - Dados inseridos com sucesso: {"natureza":"duvida","descricao":"11:37","provider":"C"}
+2024-06-20 11:35:46-03:00 - INFO - Conexão com o banco MariaDB finalizada
+2024-06-20 11:35:46-03:00 - INFO - Data successfully inserted
+2024-06-20 11:35:46-03:00 - INFO - Resposta do serviço: "Data successfully inserted"
+2024-06-20 11:35:46-03:00 - INFO - Status da resposta: 200
+2024-06-20 11:35:46-03:00 - INFO - Dados da resposta: Data successfully inserted
+2024-06-20 11:35:48-03:00 - INFO - Página de Abertura de chamados aberta
+2024-06-20 11:36:16-03:00 - INFO - Página de Abertura de chamados aberta

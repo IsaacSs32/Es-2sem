@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ticket Submission</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      form {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 300px;
+      }
+      label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+      }
+      select,
+      input[type="text"] {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      button {
+        width: 100%;
+        padding: 10px;
+        background-color: #28a745;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #218838;
+      }
+      .link-container {
+        text-align: center;
+        margin-top: 16px;
+      }
+      .link-container a {
+        text-decoration: none;
+        color: #007bff;
+      }
+      .link-container a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <form action="/persist" method="post">
+      <label for="natureza">Natureza:</label>
+      <select id="natureza" name="natureza">
+        <option value="duvida">Duvida</option>
+        <option value="resolucao">Resolucao</option></select
+      ><br />
+
+      <label for="descricao">Descricao:</label>
+      <input type="text" id="descricao" name="descricao" /><br />
+
+      <label for="provider">Provider:</label>
+      <select id="provider" name="provider">
+        <option value="A">Provider A</option>
+        <option value="B">Provider B</option>
+        <option value="C">Provider C</option>
+        <option value="Vazio">Nenhum</option></select
+      ><br />
+
+      <button type="submit">Registrar</button>
+      <div class="link-container">
+        <a href="/list">Lista de Registros</a>
+      </div>
+    </form>
+  </body>
+</html>
